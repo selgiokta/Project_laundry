@@ -29,10 +29,10 @@ public class laundry {
              flag="30000";
         }
         else if (Jenis =="Boneka"){
-            Harga= "8000";
+            Harga= "18000";
       
             a = 3;
-             flag="8000";
+             flag="18000";
                 }
         else if (Jenis =="Jas"){
              Harga= "18000";
