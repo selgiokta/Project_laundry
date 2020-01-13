@@ -23,10 +23,10 @@ public class laundry {
             
         }
         else if (Jenis =="Gorden"){
-             Harga= "20000";
+             Harga= "30000";
        
             a = 2;
-             flag="20000";
+             flag="30000";
         }
         else if (Jenis =="Boneka"){
             Harga= "8000";
